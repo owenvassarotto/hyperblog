@@ -6,16 +6,36 @@ body{
     padding: 0;
 }
 
+.cabecera{
+    background-color: #33a;
+    color: #fff;
+    margin: 0;
+    padding: 20px;
+    font-weight: 900;
+}
+
+.cabecera h1{
+    margin: 0;
+}
+
+.cabecera span{
+    font-weight: 400;
+    font-size: 25px;
+}
+
 .container{
     width: 70%;
     margin: 0 auto;
     text-align: left;
     border: 1px solid #ddd;
-    padding: 1em;
+    padding: 0;
     margin-top: 50px;
 }
 
-.container h1{
+.container h2{
     font-size: 25px;
 }
 
+.post{
+    padding: 20px;
+}
