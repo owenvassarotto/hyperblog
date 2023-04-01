@@ -39,3 +39,9 @@ body{
 .post{
     padding: 20px;
 }
+
+.footer{
+    text-align: center;
+    padding: 15px;
+    background-color: #3d3d3d;
+}
