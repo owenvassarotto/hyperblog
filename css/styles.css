@@ -7,7 +7,7 @@ body{
 }
 
 .cabecera{
-    background-color: #3B5998;
+    background-color: #1c71d8;
     color: #fff;
     margin: 0;
     padding: 20px;
@@ -55,12 +55,12 @@ body{
     padding: 10px 15px;
     font-size: 13px;
     font-family: 'Courier New', Courier, monospace;
-    background-color: #3B5998;
+    background-color: #1c71d8;
     border: none;
     color: #fff;
     cursor: pointer;
 }
 
 .botones button:hover{
-    background-color: #4d6aa8;
+    background-color: #1f79e7;
 }
