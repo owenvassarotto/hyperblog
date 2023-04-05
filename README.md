@@ -15,3 +15,5 @@ Lecciones aprendidas
 
 En general, Hyperblog fue un proyecto muy enriquecedor que me permitió adquirir habilidades útiles para mi carrera profesional como desarrollador web.
 [Este es el link del curso donde me formé, te lo recontra recomiendo.](http://platzi.com/cursos/git-github "Este es el link del curso donde me formé")
+
+> Creado por Owen Vassarotto
